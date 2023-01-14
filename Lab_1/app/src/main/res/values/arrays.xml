@@ -1,0 +1,55 @@
+<resources>
+    <string-array name="stimuli_entries">
+        <item>Position</item>
+        <item>Audio</item>
+        <item>Position and Audio</item>
+    </string-array>
+    <string-array name="stimuli_values">
+        <item>position</item>
+        <item>audio</item>
+        <item>position_audio</item>
+    </string-array>
+
+    <string-array name="n_entries">
+        <item>1-Back</item>
+        <item>2-Back</item>
+        <item>3-Back</item>
+        <item>4-Back</item>
+        <item>5-Back</item>
+    </string-array>
+    <string-array name="n_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="events_time_entries">
+        <item>1 Second</item>
+        <item>1.5 Seconds</item>
+        <item>2 Seconds</item>
+        <item>2.5 Seconds</item>
+    </string-array>
+    <string-array name="events_time_values">
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+    </string-array>
+
+    <string-array name="events_number_entries">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="events_number_values">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+</resources>
