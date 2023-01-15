@@ -1,4 +1,5 @@
 # android-n-back
 Android application for the popular memory training game N-Back.
 
-![image](https://user-images.githubusercontent.com/80320735/212562884-c96bf3c8-1f4b-45ab-a8b6-79531ea4a95a.png)
+![Screenshot_20230115_203212](https://user-images.githubusercontent.com/80320735/212563158-77963e65-7904-4650-b00a-41fba15d2292.png)
+
